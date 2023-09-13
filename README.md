@@ -2,7 +2,7 @@
 
 Hello, I'm Hemant Dhiman, a passionate web designer and developer with a strong background in PHP development, including WordPress and Laravel. I'm also experienced with the MERN (MongoDB, Express.js, React, Node.js) stack. I have a deep appreciation for problem-solving and enjoy leveraging my logical skills to create innovative solutions. I'm committed to continuous learning and strive to expand my knowledge every day.
 
-- **I have worked with PHP, MERN Stack, Vanilla JS**
+- **I have worked with PHP(WP, Laravel), MERN Stack, Vanilla JS, CSS**
 - **I Love Problem Solving & Learning new things everyday**
 
 ### Contact Me
